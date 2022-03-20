@@ -1,0 +1,7 @@
+#Archivos y carpetas ignoradas
+
+#Carpetas
+dist
+#Archivos
+scrapping-acuerdos-d210589e3544.json
+buscadorDePDF.spec
